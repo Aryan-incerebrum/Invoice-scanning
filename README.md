@@ -56,7 +56,3 @@ Not yet wired up (explicitly deferred per design doc section 4.5): the VLM
 fallback step (`fallback.py::_try_vlm`) — it's the slowest, last-resort path,
 and whether it's worth building depends on how much the (a)/(b) fallback
 steps already close the gap once real numbers are in from the golden set.
-
-Nothing in this repo has been run against real invoices yet — that's the
-next step, via `eval/run_eval.py` once a golden set and GGUF models are in
-place.
