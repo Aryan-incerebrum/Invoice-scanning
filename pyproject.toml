@@ -1,0 +1,10 @@
+[project]
+name = "invoice2json"
+version = "0.1.0"
+requires-python = ">=3.11"
+
+[project.scripts]
+invoice2json = "invoice2json.cli:app"
+
+[tool.setuptools.packages.find]
+where = ["src"]

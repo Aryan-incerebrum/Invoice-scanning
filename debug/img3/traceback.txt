@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "C:\Users\SURESH K GOWDA\Desktop\invoice-rakshith-edition\invoice2json\src\invoice2json\pipeline.py", line 75, in process_invoice
+    _write_debug_bundle(
+  File "C:\Users\SURESH K GOWDA\Desktop\invoice-rakshith-edition\invoice2json\src\invoice2json\pipeline.py", line 36, in _write_debug_bundle
+    (out_dir / name).write_text(
+  File "C:\Users\SURESH K GOWDA\.conda\envs\inv\Lib\pathlib.py", line 1079, in write_text
+    return f.write(data)
+           ^^^^^^^^^^^^^
+  File "C:\Users\SURESH K GOWDA\.conda\envs\inv\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\uff09' in position 2213: character maps to <undefined>

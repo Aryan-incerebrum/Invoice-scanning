@@ -1,0 +1,18 @@
+{
+  "vendor_name": "SRIPARSHVA PHARMA DISTRIBUTORS PRIVATE LIMITED",
+  "invoice_number": "C-26-21773",
+  "invoice_date": "18-04-2026",
+  "currency": "Rupees",
+  "line_items": [
+    {
+      "description": "10-310NOS MEF026004 07127",
+      "quantity": 10,
+      "unit_price": 162.7,
+      "amount": 1708.34
+    }
+  ],
+  "subtotal": 1627,
+  "total": 1708,
+  "tax_total": 81.34,
+  "discount_total": 0.0
+}

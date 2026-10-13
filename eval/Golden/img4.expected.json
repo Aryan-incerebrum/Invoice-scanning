@@ -1,0 +1,223 @@
+{
+  "schema_version": "1.0",
+  "status": "ok_with_warnings",
+  "source_file": "img4.jpeg",
+  "invoice": {
+    "vendor_name": "SRI PARSHVA PHARMA DISTRIBUTORS PRIVATE LIMITED",
+    "vendor_tax_id": "29ABHCS3802M1ZY",
+    "invoice_number": "C-26-21773",
+    "invoice_date": "2026-04-18",
+    "due_date": null,
+    "currency": "INR",
+    "line_items": [
+      {
+        "line_no": 1,
+        "description": "** SKINFAY CAP **",
+        "packing": "10 NOS",
+        "manufacturer": "AL-AD",
+        "hsn_code": "21069099",
+        "batch_no": "MEF026004",
+        "expiry": "2027-07",
+        "mrp": 213.55,
+        "old_mrp": null,
+        "rack": "135",
+        "quantity": 10,
+        "free_quantity": 3,
+        "unit_price": 162.7,
+        "discount_percent": null,
+        "discount_amount": null,
+        "scheme_value": null,
+        "gross_value": null,
+        "amount": 1627.0,
+        "taxable_amount": null,
+        "tax_rate_percent": 5,
+        "tax_amount": 81.35,
+        "net_amount": 1708.34
+      }
+    ],
+    "subtotal": 1627.0,
+    "tax_total": 81.34,
+    "discount_total": 0.0,
+    "total": 1708.0,
+    "vendor": {
+      "address": "PARSHVA ARCADE, NO 3023 & 3039, 1ST & 2ND FLOOR,3RD FLOOR PART -D, 5TH MAIN, 15TH CROSS, BANASHANKARI 2ND STAGE, BANGALORE-560070",
+      "phones": [
+        "08061774747",
+        "48",
+        "49",
+        "50",
+        "51",
+        "9880988869"
+      ],
+      "email": "SRIPARSHVAPHARMA@GMAIL.COM",
+      "website": "www.enterodirect.com",
+      "drug_licenses": [
+        "KA-B41-20B-124788",
+        "KA-B41-21B-124789",
+        "KA-B41-20G-124817",
+        "KA-B41-20B-162917 (Godown)",
+        "KA-B41-21B-162918 (Godown)"
+      ],
+      "state_code": "29",
+      "state_name": "KARNATAKA",
+      "fssai_no": "11220334001402",
+      "msme_no": null,
+      "pan": "ABHCS3802M"
+    },
+    "buyer": {
+      "name": "DR SINDHU RAKSHITH",
+      "business_name": "C/O SHRIDHA SKIN & HAIR CLINIC",
+      "address": "3RD FLOOR , G V PLAZA,, # 27 , 12TH MAIN , 1 ST BLOCK , RAJAJINAGAR,, RAJAJINAGAR , BANGALOREBENGALURU-560010",
+      "phones": [
+        "8105899122"
+      ],
+      "gstin": "29CSLPS4004D1ZP",
+      "kmc_no": "88139",
+      "state_code": "29",
+      "state_name": "KARNATAKA",
+      "pan": "CSLPS4004D",
+      "contact_person": null,
+      "reg_no": null
+    },
+    "document": {
+      "title": "GST INVOICE",
+      "copy_type": "Duplicate Copy",
+      "page": "1 of 1",
+      "invoice_type_label": null,
+      "irn": "57642197528ac393d296afb6ca1d0bde53c4de221ba79bbcc83f4a6b0bb9c9ff",
+      "ack_no": "112630046014565",
+      "ack_date": "2026-04-18",
+      "eway_no": null,
+      "transport": null,
+      "lr_no": null,
+      "lr_date": null,
+      "area": null,
+      "destination": null,
+      "despatched_through": null,
+      "terms_of_delivery": null,
+      "po_number": null,
+      "po_date": null,
+      "payment_terms": null,
+      "mode_of_payment": null,
+      "customer_code": "AL1785",
+      "sales_rep": "10 - DIRECT -",
+      "sales_rep_phone": null,
+      "prepared_by": null,
+      "invoice_time": "06:34 PM"
+    },
+    "payment": {
+      "bank_name": null,
+      "branch": null,
+      "bank_address": null,
+      "account_name": null,
+      "account_number": null,
+      "ifsc": null,
+      "upi_id": null,
+      "scan_pay_number": null,
+      "notify_number": null
+    },
+    "tax_summary": [
+      {
+        "rate_percent": 5.0,
+        "taxable_value": 1627.0,
+        "scheme_amount": null,
+        "cd_amount": null,
+        "cgst": 40.67,
+        "sgst": 40.67,
+        "igst": 0.0,
+        "total_tax": null
+      }
+    ],
+    "tax_summary_totals": {
+      "rate_percent": null,
+      "taxable_value": 1627.0,
+      "scheme_amount": null,
+      "cd_amount": null,
+      "cgst": 40.67,
+      "sgst": 40.67,
+      "igst": 0.0,
+      "total_tax": null
+    },
+    "adjustments": {
+      "scheme_discount": 0.0,
+      "discount": 0.0,
+      "round_off": -0.34,
+      "courier_charges": null,
+      "tcs_percent": null,
+      "tcs_amount": 0.0,
+      "cr_dr_note": 0.0,
+      "replacement_amount": null
+    },
+    "quantity_totals": {
+      "total_quantity": 10,
+      "item_count": 1
+    },
+    "amount_in_words": "One Thousand Seven Hundred Eight Rupees Only.",
+    "tax_amount_in_words": null,
+    "reference": null,
+    "remarks": "ORDER GIVEN BY BHARATH KV DTD 16.04.2026",
+    "disclaimer": null,
+    "terms_and_conditions": [],
+    "signatures": [
+      {
+        "label": "For, SRI PARSHVA PHARMA DISTRIBUTORS PRIVATE LIMITED (Director, signed)",
+        "present": true
+      },
+      {
+        "label": "Receiver Signature (tear-off Acknowledgement slip)",
+        "present": false
+      }
+    ],
+    "outstanding_bills": {
+      "bills": null,
+      "bill_count": 2,
+      "total": 14708.0
+    },
+    "other_printed_text": [
+      "(Pharmaceutical Distributors Company)",
+      "E QR (e-invoice QR code beside the totals)",
+      "Barcode C-26-21773 (printed on the invoice and again on the Acknowledgement slip)",
+      "Tear-off Acknowledgement slip at the right repeats the vendor header, buyer, Sman: (10) DIRECT -, 'Outs : Total 2 Bill Amt 14708.00', invoice number and date, Goods Value 1,627.00, Disc. Value .00, Sch. Value .00, GST Value 81.34, Cess Value .00, Invoice Amount 1708.00, the remarks, 'For , DR SINDHU RAKSHITH' and 'Receiver Signature'",
+      "Printed 'Outs : Total 2 Bill Amt 14708.00' in the footer"
+    ],
+    "other_fields": {
+      "p_l_no": "PL-26-4948",
+      "order_id": "14882217",
+      "p_count": 2,
+      "bill_time": "06:34 PM",
+      "c_by": "Lalitha Bai",
+      "p_by": "Prabha",
+      "p_t": "20-Apr-26 01:11 PM",
+      "m_by": "Lalitha Bai",
+      "m_t": "18-Apr-26 06:41 PM",
+      "goods_value": 1627.0,
+      "net_value": 1627.0,
+      "cess_value": 0.0,
+      "adj_value": 0.0,
+      "free_qty_total": 3.0
+    }
+  },
+  "handwritten_annotations": [],
+  "checks": {
+    "line_sums_match_subtotal": true,
+    "subtotal_plus_tax_equals_total": false,
+    "values_found_in_ocr_text": true
+  },
+  "warnings": [
+    "Subtotal 1627.00 + GST 81.34 = 1708.34, but the printed invoice amount is 1708.00. The 0.34 difference is the printed 'Rounding' line (-.34), so the total is correct.",
+    "The line's G. Amt is printed as 81.35, while the totals box and tax table give GST of 81.34 (CGST 40.67 + SGST 40.67). The line's Total Amt of 1,708.34 matches 1627.00 + 81.34, so the 0.01 difference is in the printed line GST. tax_amount holds the line value (81.35) and tax_total holds the summary value (81.34).",
+    "The header says 'Duplicate Copy' (P. Count: 2). This may duplicate an invoice you already have; check it is not booked twice.",
+    "EWB NO, EWD VALID DT and EWB VALID UP TO are printed as the literal text 'null' and stored as null. No e-way bill number is printed.",
+    "No due date, payment terms or bank details are printed.",
+    "The currency symbol is not printed. INR is taken from the 'Rupees' in the amount in words.",
+    "The S.Rate is printed as 162.7 and stored as 162.70. SCM % and Dis % are blank for the line.",
+    "Vendor phones are printed in shorthand ('08061774747, 48, 49, 50, 51') and stored as printed.",
+    "total_quantity is the printed Total Qty (10, paid units only). The free quantity total (3.0) is in other_fields."
+  ],
+  "meta": {
+    "pipeline_version": null,
+    "ocr_engine": null,
+    "llm": "claude",
+    "seconds": null
+  }
+}

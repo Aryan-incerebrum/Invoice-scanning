@@ -1,0 +1,247 @@
+{
+  "schema_version": "1.0",
+  "status": "needs_review",
+  "source_file": "img5.jpeg",
+  "invoice": {
+    "vendor_name": "TULSI CORPORATION",
+    "vendor_tax_id": "29AACFT9557F1ZP",
+    "invoice_number": "CA282373",
+    "invoice_date": "2026-08-14",
+    "due_date": null,
+    "currency": "INR",
+    "line_items": [
+      {
+        "line_no": 1,
+        "description": "MUPIMESH 10gm OINT",
+        "packing": "10gm",
+        "manufacturer": "APX",
+        "hsn_code": "300490",
+        "batch_no": "MPM2606",
+        "expiry": "2028-06",
+        "mrp": 211.68,
+        "old_mrp": null,
+        "rack": "L14E",
+        "quantity": 15,
+        "free_quantity": 5,
+        "unit_price": 161.28,
+        "discount_percent": null,
+        "discount_amount": 806.31,
+        "cd_percent": 3.0,
+        "scheme_value": null,
+        "gross_value": null,
+        "amount": 1564.49,
+        "taxable_amount": 1564.49,
+        "tax_rate_percent": 5,
+        "tax_amount": 78.22,
+        "net_amount": 1642.71
+      }
+    ],
+    "subtotal": 1564.49,
+    "tax_total": 78.22,
+    "discount_total": 48.4,
+    "total": 1643.0,
+    "vendor": {
+      "address": "13 BVK IYENGAR RD, 2nd FLOOR BANGALORE, __ __ __ - 560053",
+      "phones": null,
+      "email": null,
+      "website": null,
+      "drug_licenses": [
+        "KAB22 -123442"
+      ],
+      "state_code": null,
+      "state_name": null,
+      "fssai_no": null,
+      "msme_no": null,
+      "pan": "AACFT9557F"
+    },
+    "buyer": {
+      "name": "DR SINDHU RAKSHITH",
+      "business_name": null,
+      "address": "SHIRDHA SKIN.3RD FLR, GV PLAZA ,RAJAJINAGAR BANGLORE 560010 - 560010",
+      "phones": null,
+      "gstin": "29CSLPS4004D1ZP",
+      "kmc_no": null,
+      "state_code": null,
+      "state_name": null,
+      "pan": null,
+      "contact_person": null,
+      "reg_no": "REG-88139"
+    },
+    "document": {
+      "title": "TAX INVOICE",
+      "copy_type": null,
+      "page": "1",
+      "invoice_type_label": null,
+      "irn": null,
+      "ack_no": null,
+      "ack_date": null,
+      "eway_no": null,
+      "transport": null,
+      "lr_no": null,
+      "lr_date": null,
+      "area": null,
+      "destination": null,
+      "despatched_through": null,
+      "terms_of_delivery": null,
+      "po_number": null,
+      "po_date": null,
+      "payment_terms": null,
+      "mode_of_payment": null,
+      "customer_code": "08273",
+      "sales_rep": "SRINIVAS",
+      "sales_rep_phone": "9242969599",
+      "prepared_by": null,
+      "invoice_time": null
+    },
+    "payment": {
+      "bank_name": "HDFC Bank",
+      "branch": null,
+      "bank_address": null,
+      "account_name": "Tulsi Corporation",
+      "account_number": "50200007846174",
+      "ifsc": "HDFC0009089",
+      "upi_id": null,
+      "scan_pay_number": null,
+      "notify_number": null
+    },
+    "tax_summary": [
+      {
+        "rate_percent": 5.0,
+        "taxable_value": 1564.49,
+        "scheme_amount": null,
+        "cd_amount": null,
+        "cgst": 39.11,
+        "sgst": 39.11,
+        "igst": null,
+        "total_tax": null
+      }
+    ],
+    "tax_summary_totals": {
+      "rate_percent": null,
+      "taxable_value": null,
+      "scheme_amount": null,
+      "cd_amount": null,
+      "cgst": null,
+      "sgst": null,
+      "igst": null,
+      "total_tax": null
+    },
+    "adjustments": {
+      "scheme_discount": null,
+      "discount": null,
+      "round_off": 0.29,
+      "courier_charges": null,
+      "tcs_percent": null,
+      "tcs_amount": null,
+      "cr_dr_note": null,
+      "replacement_amount": null
+    },
+    "quantity_totals": {
+      "total_quantity": 15,
+      "item_count": 1
+    },
+    "amount_in_words": "ONE THOUSAND SIX HUNDRED FORTY THREE AND PAISE NIL ONLY.",
+    "tax_amount_in_words": null,
+    "reference": null,
+    "remarks": null,
+    "disclaimer": null,
+    "terms_and_conditions": [
+      "GOODS ONE SOLD CANNOT BE RETURNED OR EXCHANGED",
+      "E & OE",
+      "OVERDUE INTEREST @ 18% pa WILL BE CHARGED FROM DUE DATE",
+      "SUBJECT TO BENGALURU JURISDICTION",
+      "GOODS SUPPLIED UNDER THIS INVOICE DO NOT CONTRAVENE SEC 18 OF DRUGS & COSMETIC ACT,1940)."
+    ],
+    "signatures": [
+      {
+        "label": "For Tulsi Corporation - Authorised Signatory",
+        "present": true
+      }
+    ],
+    "outstanding_bills": null,
+    "other_printed_text": [
+      "JAI BHIKSHU / OM / JAI TULSI (invocation line at the top)",
+      "Kannada-script version of the company name in the logo",
+      "**** PLZ COLLECT SIGN BILL ON CASH PAYMENT & ENSURE ONLINE PAY TOWARDS COMPANY Ac ONLY *****",
+      "1. Please Note - All E-Payments to Company Bank A/c Only. 2. Please Collect Sign Acknowledgment after making Cash Pay.",
+      "SCAN TO PAY (QR code)",
+      "BANK DETAILS box",
+      "Net amount printed as 'NET AMOUNT RS. *****1643.00'",
+      "Tax table: the left block has three GST-% rows (00.00) and the right block has 05.00 plus two 00.00 rows; all other cells in those rows are blank",
+      "Footer: bank line 'BANK Ac -\"TULSI CORPORATION\" BANK - HDFC BANK -Ac NO. 50200007846174 IFSC-HDFC0009089'"
+    ],
+    "other_fields": {
+      "table_ty": "P",
+      "order_no": "024317",
+      "proc_by": "AMIT",
+      "mod_dt": "#M1 08/14 17:32",
+      "mod_marker": "#M1",
+      "creat_dt": "08/14 17:13",
+      "rep_code": "46",
+      "area_code": "L10",
+      "route_code": null,
+      "table_code": "010",
+      "type": "P",
+      "session": "E",
+      "adj_description": "PAISEADJ/INTEREST",
+      "adj_amt": 0.29
+    }
+  },
+  "handwritten_annotations": [
+    {
+      "type": "note",
+      "text": "9686482429 (Govinda)",
+      "location": "Top margin above the header, in large handwriting. The name is in cursive and the reading is less certain"
+    },
+    {
+      "type": "note",
+      "text": "New bill print & kept in file",
+      "location": "Centre of the page below the item table, written at an angle"
+    },
+    {
+      "type": "note",
+      "text": "MPM2508",
+      "location": "Directly under the circled printed batch MPM2606"
+    },
+    {
+      "type": "mark",
+      "text": null,
+      "location": "Pen circle around the printed batch MPM2606"
+    },
+    {
+      "type": "mark",
+      "text": null,
+      "location": "Long diagonal pen line from the top left of the header to the bottom right of the page"
+    },
+    {
+      "type": "mark",
+      "text": null,
+      "location": "Ticks and slashes near the vendor name, the invoice date and number, the pack and description, MRPI, HSN/GST-%, VALUE and the net amount"
+    }
+  ],
+  "checks": {
+    "line_sums_match_subtotal": true,
+    "subtotal_plus_tax_equals_total": false,
+    "values_found_in_ocr_text": true
+  },
+  "warnings": [
+    "Handwritten note reads 'New bill print & kept in file', and a diagonal pen line is drawn across the page. This invoice appears to be superseded by a re-printed bill; confirm before booking it.",
+    "The printed batch MPM2606 is circled and 'MPM2508' is handwritten beneath it, which looks like a batch correction. batch_no holds the printed value; the handwritten value is in handwritten_annotations.",
+    "A handwritten phone number with a name ('9686482429 (Govinda)') is written at the top. It is not part of the printed invoice.",
+    "Subtotal 1564.49 + GST 78.22 = 1642.71, but the printed net amount is 1643.00. The 0.29 difference is the printed 'PAISEADJ/INTEREST' adjustment (.29), stored as adjustments.round_off.",
+    "quantity is the printed QNTY (15) and free_quantity the printed FREE-QTY (5). The arithmetic shows 15 includes the free units: 15 x 161.28 = 2419.20, minus the line DISC-AMT 806.31 = 1612.89, minus the 3% cash discount (48.40, also the footer DISC-AMT) = 1564.49. So quantity x unit_price does not equal amount.",
+    "discount_total is the printed footer DISC-AMT (48.40), which covers only the 3% cash discount. The larger line DISC-AMT of 806.31 is stored on the line as discount_amount.",
+    "The column mapping for the item row (CD% 3.00, FREE-QTY 5.00, DISC-AMT 806.31) is inferred from column alignment and the arithmetic above.",
+    "The printed TR-PRICE is '161.28 E'; the trailing 'E' is unexplained and was not stored. PRMRPI is blank, so old_mrp is null.",
+    "The invoice date is printed with a two-digit year (14/08/26). It is read as day/month/year and stored as 2026-08-14.",
+    "The buyer's licence line reads 'D L NO :REG-88139', so it is stored as reg_no, not kmc_no.",
+    "Vendor phone, buyer phone and carrier are blank. No IRN, ack number or e-way bill is printed.",
+    "Pen ticks and slashes appear over several fields. The printed values were still legible and are what was extracted."
+  ],
+  "meta": {
+    "pipeline_version": null,
+    "ocr_engine": null,
+    "llm": "claude",
+    "seconds": null
+  }
+}

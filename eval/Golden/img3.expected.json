@@ -1,0 +1,402 @@
+{
+  "schema_version": "1.0",
+  "status": "needs_review",
+  "source_file": "img3.jpeg",
+  "invoice": {
+    "vendor_name": "MERCURY AGENCIES",
+    "vendor_tax_id": "29AABFM4834D1ZF",
+    "invoice_number": "1031219",
+    "invoice_date": "2026-03-18",
+    "due_date": null,
+    "currency": "INR",
+    "line_items": [
+      {
+        "line_no": 1,
+        "description": "Tyrodin Cream",
+        "packing": "20gm",
+        "manufacturer": "CANIX",
+        "hsn_code": "30049099",
+        "batch_no": "6042",
+        "expiry": "2027-06",
+        "mrp": 445.0,
+        "old_mrp": 0.0,
+        "rack": "H23",
+        "quantity": 10,
+        "free_quantity": 4,
+        "unit_price": 339.05,
+        "discount_percent": null,
+        "discount_amount": null,
+        "scheme_value": null,
+        "gross_value": null,
+        "amount": 3390.5,
+        "taxable_amount": 3390.5,
+        "tax_rate_percent": 5,
+        "tax_amount": 169.52,
+        "net_amount": 3560.02
+      },
+      {
+        "line_no": 2,
+        "description": "Itin-A Forte",
+        "packing": "1'S",
+        "manufacturer": "CANIX",
+        "hsn_code": "30049021",
+        "batch_no": "T4274",
+        "expiry": "2026-07",
+        "mrp": 33.75,
+        "old_mrp": 36.0,
+        "rack": "H25",
+        "quantity": 1,
+        "free_quantity": null,
+        "unit_price": 25.71,
+        "discount_percent": null,
+        "discount_amount": null,
+        "scheme_value": null,
+        "gross_value": null,
+        "amount": 25.71,
+        "taxable_amount": 25.71,
+        "tax_rate_percent": 5,
+        "tax_amount": 1.28,
+        "net_amount": 26.99
+      },
+      {
+        "line_no": 3,
+        "description": "Itin-A Forte",
+        "packing": "1'S",
+        "manufacturer": "CANIX",
+        "hsn_code": "30049021",
+        "batch_no": "T5112",
+        "expiry": "2027-03",
+        "mrp": 37.0,
+        "old_mrp": 0.0,
+        "rack": "H25",
+        "quantity": 9,
+        "free_quantity": 2,
+        "unit_price": 28.19,
+        "discount_percent": null,
+        "discount_amount": null,
+        "scheme_value": null,
+        "gross_value": null,
+        "amount": 253.71,
+        "taxable_amount": 253.71,
+        "tax_rate_percent": 5,
+        "tax_amount": 12.68,
+        "net_amount": 266.39
+      },
+      {
+        "line_no": 4,
+        "description": "Itin-A Forte",
+        "packing": "1'S",
+        "manufacturer": "CANIX",
+        "hsn_code": "30049021",
+        "batch_no": "T5278",
+        "expiry": "2027-07",
+        "mrp": 37.0,
+        "old_mrp": 0.0,
+        "rack": "H25",
+        "quantity": 0,
+        "free_quantity": 1,
+        "unit_price": 28.19,
+        "discount_percent": null,
+        "discount_amount": null,
+        "scheme_value": null,
+        "gross_value": null,
+        "amount": 0.0,
+        "taxable_amount": 0.0,
+        "tax_rate_percent": 5,
+        "tax_amount": 0.0,
+        "net_amount": 0.0
+      },
+      {
+        "line_no": 5,
+        "description": "Itin-A Forte",
+        "packing": "1'S",
+        "manufacturer": "CANIX",
+        "hsn_code": "30049021",
+        "batch_no": "T5409",
+        "expiry": "2027-09",
+        "mrp": 37.0,
+        "old_mrp": 0.0,
+        "rack": "H25",
+        "quantity": 0,
+        "free_quantity": 1,
+        "unit_price": 28.19,
+        "discount_percent": null,
+        "discount_amount": null,
+        "scheme_value": null,
+        "gross_value": null,
+        "amount": 0.0,
+        "taxable_amount": 0.0,
+        "tax_rate_percent": 5,
+        "tax_amount": 0.0,
+        "net_amount": 0.0
+      }
+    ],
+    "subtotal": 3669.92,
+    "tax_total": 183.48,
+    "discount_total": 0.0,
+    "total": 3853.0,
+    "vendor": {
+      "address": "No.6 & 10, 1st floor, Vijaya Mansion, II Cross, Chamrajpet, Bengaluru - 560018",
+      "phones": [
+        "080-41689500",
+        "41222500",
+        "9844416544",
+        "8050792192"
+      ],
+      "email": "mercury.agencies@gmail.com",
+      "website": "www.mercuryagencies.co.in",
+      "drug_licenses": [
+        "KA/BNG/II/20B/192210",
+        "KA/BNG/II/21B/192211"
+      ],
+      "state_code": "29",
+      "state_name": null,
+      "fssai_no": null,
+      "msme_no": null,
+      "pan": null
+    },
+    "buyer": {
+      "name": "Dr.Sindhu Rakshith",
+      "business_name": "Shridha Skin & Hair Clinic",
+      "address": "3rd Floor,G V Plaza,27,12th Main Road,1st Bl Rajalinagar,Bengaluru-560010 560010",
+      "phones": [
+        "8105899122"
+      ],
+      "gstin": "29CSLPS4004D1ZP",
+      "kmc_no": "88139",
+      "state_code": null,
+      "state_name": null,
+      "pan": null,
+      "contact_person": null,
+      "reg_no": null
+    },
+    "document": {
+      "title": "INVOICE",
+      "copy_type": "ORIGINAL - BUYERS COPY",
+      "page": "1 of 1",
+      "invoice_type_label": "CREDIT",
+      "irn": null,
+      "ack_no": null,
+      "ack_date": null,
+      "eway_no": null,
+      "transport": null,
+      "lr_no": null,
+      "lr_date": null,
+      "area": "RAJAJINAGAR, BHASYAM CIRCLE",
+      "destination": null,
+      "despatched_through": null,
+      "terms_of_delivery": null,
+      "po_number": null,
+      "po_date": null,
+      "payment_terms": null,
+      "mode_of_payment": null,
+      "customer_code": "12949",
+      "sales_rep": "64",
+      "sales_rep_phone": "RAJU-9844577278",
+      "prepared_by": "RONIT",
+      "invoice_time": "03:44:25F"
+    },
+    "payment": {
+      "bank_name": "IDBI BANK",
+      "branch": "MISSION ROAD",
+      "bank_address": null,
+      "account_name": null,
+      "account_number": "008102000003704",
+      "ifsc": "IBKL0000008",
+      "upi_id": null,
+      "scan_pay_number": null,
+      "notify_number": "80507921292"
+    },
+    "tax_summary": [
+      {
+        "rate_percent": 0,
+        "taxable_value": 0.0,
+        "scheme_amount": null,
+        "cd_amount": null,
+        "cgst": null,
+        "sgst": null,
+        "igst": null,
+        "total_tax": null
+      },
+      {
+        "rate_percent": 5,
+        "taxable_value": 3669.92,
+        "scheme_amount": null,
+        "cd_amount": null,
+        "cgst": 91.74,
+        "sgst": 91.74,
+        "igst": 0.0,
+        "total_tax": 183.48
+      },
+      {
+        "rate_percent": 12,
+        "taxable_value": 0.0,
+        "scheme_amount": null,
+        "cd_amount": null,
+        "cgst": 0.0,
+        "sgst": 0.0,
+        "igst": 0.0,
+        "total_tax": 0.0
+      },
+      {
+        "rate_percent": 18,
+        "taxable_value": 0.0,
+        "scheme_amount": null,
+        "cd_amount": null,
+        "cgst": 0.0,
+        "sgst": 0.0,
+        "igst": 0.0,
+        "total_tax": 0.0
+      },
+      {
+        "rate_percent": 28,
+        "taxable_value": 0.0,
+        "scheme_amount": null,
+        "cd_amount": null,
+        "cgst": 0.0,
+        "sgst": 0.0,
+        "igst": 0.0,
+        "total_tax": 0.0
+      }
+    ],
+    "tax_summary_totals": {
+      "rate_percent": null,
+      "taxable_value": null,
+      "scheme_amount": null,
+      "cd_amount": null,
+      "cgst": 91.74,
+      "sgst": 91.74,
+      "igst": 0.0,
+      "total_tax": 183.48
+    },
+    "adjustments": {
+      "scheme_discount": 0.0,
+      "discount": 0.0,
+      "round_off": -0.4,
+      "courier_charges": null,
+      "tcs_percent": 0.1,
+      "tcs_amount": 0.0,
+      "cr_dr_note": 0.0,
+      "replacement_amount": 0.0
+    },
+    "quantity_totals": {
+      "total_quantity": 28,
+      "item_count": 5
+    },
+    "amount_in_words": null,
+    "tax_amount_in_words": null,
+    "reference": null,
+    "remarks": null,
+    "disclaimer": null,
+    "terms_and_conditions": [
+      "Goods once sold cannot be taken back or exchanged.",
+      "When you are returning the breakage / expiry / non moving goods it should be accompanied by debit note as per the VAT rule",
+      "In case of delay in making payment over and above 21 days interest @18% shall be charged.",
+      "IN CASE OF EXCESS CHARGES BY OVERSIGHT KINDLY BRING TO OUR NOTICE FOR REFUND. CHECK BATCH No./ITEMS WHILE ACCEPTING D ELIVERY. We are not responsible for Direct payment without sign slip SUBJECT TO BANGALORE JURISDICTION.",
+      "WARRANTY: That the goods or classes of goods supplied under this invoice do not contravene in any way the provisions of the Drugs & Cosmetics Act,1940 . E.&OE"
+    ],
+    "signatures": [
+      {
+        "label": "FOR MERCURY AGENCIES (signature)",
+        "present": true
+      }
+    ],
+    "outstanding_bills": {
+      "bills": [
+        {
+          "bill_no": "1027419",
+          "date": "2026-02-26",
+          "amount": 3660.0,
+          "days": 20
+        },
+        {
+          "bill_no": "1027420",
+          "date": "2026-02-26",
+          "amount": 938.0,
+          "days": 20
+        },
+        {
+          "bill_no": "1027456",
+          "date": "2026-02-27",
+          "amount": 1290.0,
+          "days": 19
+        },
+        {
+          "bill_no": "1027532",
+          "date": "2026-02-27",
+          "amount": 6376.0,
+          "days": 19
+        },
+        {
+          "bill_no": "1028725",
+          "date": "2026-03-05",
+          "amount": 5418.0,
+          "days": 13
+        }
+      ],
+      "bill_count": 6,
+      "total": 21535.0
+    },
+    "other_printed_text": [
+      "Original'",
+      "UPDATE GSTN NO IF NOT FED&ETHIGLO,IPCA,MEDMANOR,ABBOTT HEALTH,ERIS STK AVAI",
+      "SCAN AND PAY",
+      "PAY & WHATSAPP ON 80507921292 WITH CUST CODE",
+      "BANK DETAILS RTGS"
+    ]
+  },
+  "handwritten_annotations": [
+    {
+      "type": "note",
+      "text": "Cancelled",
+      "location": "Centre of the page, underlined"
+    },
+    {
+      "type": "note",
+      "text": "Tab Returns",
+      "location": "Beside the hand-boxed Itin-A Forte rows"
+    },
+    {
+      "type": "note",
+      "text": "replace to new bill for both.",
+      "location": "Lower left empty area of the item table"
+    },
+    {
+      "type": "mark",
+      "text": null,
+      "location": "Diagonal pen line across the whole page from top left to bottom right"
+    },
+    {
+      "type": "mark",
+      "text": null,
+      "location": "Hand-drawn box around the four Itin-A Forte rows, with ticks beside their qty, free and batch cells"
+    },
+    {
+      "type": "mark",
+      "text": null,
+      "location": "Pen circle around batch T4274 and a pen underline beneath the vendor GST No."
+    }
+  ],
+  "checks": {
+    "line_sums_match_subtotal": true,
+    "subtotal_plus_tax_equals_total": false,
+    "values_found_in_ocr_text": true
+  },
+  "warnings": [
+    "Handwritten 'Cancelled' is written across the page, with a diagonal strike line through the invoice. A second note reads 'replace to new bill for both.' This invoice appears to be cancelled or superseded; confirm before booking it.",
+    "The four Itin-A Forte rows are boxed by hand and labelled 'Tab Returns', with pen ticks beside the qty and batch columns. The printed values were still legible and are what was extracted.",
+    "Subtotal 3669.92 + GST 183.48 = 3853.40, but the printed net amount is 3853.00. The 0.40 difference is the printed 'Rounded Off' line (-0.40), so the total is correct.",
+    "quantity is the paid quantity and free_quantity the free quantity. The Free cell of line 2 is blank (null). The last two Itin-A Forte rows are free-only (qty 0, amount 0.00).",
+    "Line amounts are the printed TXL Value (pre-tax). Printed Net Values (3560.02, 26.99, 266.39, 0.00, 0.00) sum to 3853.40.",
+    "The 'CREDIT' label beside the invoice number appears to mean a credit-sale invoice, not a credit note. The invoice total is positive.",
+    "The outstanding-bills table lists five earlier bills (17682.00) plus a count of 6 and a total of 21535.00. The total equals those five bills plus this invoice (3853.00).",
+    "The WhatsApp/pay number is printed as 80507921292 (11 digits); it is stored as printed. The vendor phone list has 8050792192.",
+    "The buyer address is cut off at '1st Bl' and the printed '560010' is repeated; 'Rajalinagar' is kept as printed. The time is printed '03:44:25F' and kept as is."
+  ],
+  "meta": {
+    "pipeline_version": null,
+    "ocr_engine": null,
+    "llm": "claude",
+    "seconds": null
+  }
+}

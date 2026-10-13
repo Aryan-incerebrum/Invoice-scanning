@@ -1,0 +1,228 @@
+{
+  "schema_version": "1.0",
+  "status": "ok_with_warnings",
+  "source_file": "img2.jpeg",
+  "invoice": {
+    "vendor_name": "Newtrimed HealthCare Private Limited",
+    "vendor_tax_id": "33AAFCN2874H1ZF",
+    "invoice_number": "25-26/CFC-2213",
+    "invoice_date": "2025-09-09",
+    "due_date": null,
+    "currency": "INR",
+    "line_items": [
+      {
+        "line_no": 1,
+        "description": "Melcaf X Scalp Serum 50ml",
+        "packing": "50ml",
+        "manufacturer": "Shresushe",
+        "hsn_code": "33059090",
+        "batch_no": "SN78",
+        "expiry": "2027-03-31",
+        "mrp": 990.0,
+        "old_mrp": null,
+        "rack": null,
+        "quantity": 6,
+        "free_quantity": null,
+        "unit_price": 671.19,
+        "discount_percent": 16.67,
+        "discount_amount": null,
+        "scheme_value": null,
+        "gross_value": 4027.14,
+        "amount": 3355.82,
+        "taxable_amount": 3355.82,
+        "tax_rate_percent": 18,
+        "tax_amount": 604.05,
+        "net_amount": 3959.87
+      },
+      {
+        "line_no": 2,
+        "description": "Ivoblak Hair Lotion 30ml",
+        "packing": "30ml",
+        "manufacturer": "Mahasri",
+        "hsn_code": "33059090",
+        "batch_no": "B17",
+        "expiry": "2027-12-31",
+        "mrp": 730.0,
+        "old_mrp": null,
+        "rack": null,
+        "quantity": 6,
+        "free_quantity": null,
+        "unit_price": 494.92,
+        "discount_percent": 16.67,
+        "discount_amount": null,
+        "scheme_value": null,
+        "gross_value": 2969.52,
+        "amount": 2474.5,
+        "taxable_amount": 2474.5,
+        "tax_rate_percent": 18,
+        "tax_amount": 445.41,
+        "net_amount": 2919.91
+      }
+    ],
+    "subtotal": 5830.32,
+    "tax_total": 1049.46,
+    "discount_total": null,
+    "total": 6880.0,
+    "vendor": {
+      "address": "Plot No.72-73,7th Link Street,Judges Colony,Nehru Nagar ,Kottivakkam, Chennai-600 041",
+      "phones": [
+        "044-42618866",
+        "9790244188"
+      ],
+      "email": "contactus@newtrimed.com",
+      "website": null,
+      "drug_licenses": null,
+      "state_code": null,
+      "state_name": null,
+      "fssai_no": "12418008003580",
+      "msme_no": "UDYAM-TN-02-0023229",
+      "pan": null
+    },
+    "buyer": {
+      "name": "Dr.Sindhu Rakshith",
+      "business_name": "Shridha Skin and Hair Clinic",
+      "address": "3rd Floor, # 27,12th Main Road, Rajaji Nagar,1st Block, Bengaluru -560010",
+      "phones": [
+        "8105799122"
+      ],
+      "gstin": "29CSLPS4004D1ZP",
+      "kmc_no": "88139",
+      "state_code": "29",
+      "state_name": "Karnataka",
+      "pan": null,
+      "contact_person": null,
+      "reg_no": null
+    },
+    "document": {
+      "title": null,
+      "copy_type": "Original",
+      "page": null,
+      "invoice_type_label": null,
+      "irn": "d65fb0db8e594e531a0ee1c7963215d388b39a761225ef22b1f0585c2fbaf3f0",
+      "ack_no": "152522977208707",
+      "ack_date": "2025-09-09",
+      "eway_no": null,
+      "transport": null,
+      "lr_no": null,
+      "lr_date": null,
+      "area": null,
+      "destination": "Bengaluru",
+      "despatched_through": "Courier",
+      "terms_of_delivery": null,
+      "po_number": null,
+      "po_date": null,
+      "payment_terms": "35 Days",
+      "mode_of_payment": null,
+      "customer_code": null,
+      "sales_rep": null,
+      "sales_rep_phone": null,
+      "prepared_by": null,
+      "invoice_time": null
+    },
+    "payment": {
+      "bank_name": "ICICI BANK LTD",
+      "branch": "TVH-QUADRANT",
+      "bank_address": "NO 15/19, DR. MUTHULAKSHMI ROAD, L.B.ROAD, ADYAR, CHENNAI 600020",
+      "account_name": null,
+      "account_number": "035005501369",
+      "ifsc": "ICIC0000350",
+      "upi_id": "eazypay.572236378@icici",
+      "scan_pay_number": null,
+      "notify_number": null
+    },
+    "tax_summary": [
+      {
+        "rate_percent": null,
+        "taxable_value": 5830.32,
+        "scheme_amount": null,
+        "cd_amount": null,
+        "cgst": null,
+        "sgst": null,
+        "igst": 1049.46,
+        "total_tax": 1049.46
+      }
+    ],
+    "tax_summary_totals": {
+      "rate_percent": null,
+      "taxable_value": null,
+      "scheme_amount": null,
+      "cd_amount": null,
+      "cgst": null,
+      "sgst": null,
+      "igst": 1049.46,
+      "total_tax": 1049.46
+    },
+    "adjustments": {
+      "scheme_discount": null,
+      "discount": null,
+      "round_off": 0.22,
+      "courier_charges": null,
+      "tcs_percent": null,
+      "tcs_amount": null,
+      "cr_dr_note": null,
+      "replacement_amount": null
+    },
+    "quantity_totals": {
+      "total_quantity": 12,
+      "item_count": null
+    },
+    "amount_in_words": "Rupees Six Thousand Eight Hundred Eighty Only",
+    "tax_amount_in_words": "INR One Thousand Forty Nine and Forty Six paise Only.",
+    "reference": null,
+    "remarks": "NOT ELIGIBLE FOR RETURN /EXPIRY REPLACEMENT",
+    "disclaimer": "We declare that this invoice shows the actual price of the goods described and that all particulars are true and correct.Goods once sold cannot be taken back,All goods are checked & packed with the utmost care and forwarded at consignee's risk.Products sold are not eligible for return ,exchange,expiry replacement.",
+    "terms_and_conditions": [],
+    "signatures": [
+      {
+        "label": "Prepared By",
+        "present": true
+      },
+      {
+        "label": "Verified By",
+        "present": true
+      },
+      {
+        "label": "Authorised By (For NEWTRIMED HEALTHCARE PVT LTD)",
+        "present": true
+      },
+      {
+        "label": "For Buyer (Seal & Sign)",
+        "present": false
+      }
+    ],
+    "outstanding_bills": null,
+    "other_printed_text": [
+      "Other copy boxes in the header: 'Transporter Copy', 'Acknowledgment File Copy' (not highlighted)",
+      "Scan QR Code for Payment",
+      "This is a Computer Generated Invoice",
+      "E & O.E",
+      "Blank fields: Mode of Payment, PO No., PO Date, Terms of Delivery, Courier Charges, Packed By, Checked By, No.Of Cases, Reg.No., CGST, SGST, SCM Value"
+    ]
+  },
+  "handwritten_annotations": [
+    {
+      "type": "highlight",
+      "text": null,
+      "location": "Blue highlighter over the 'Original' box in the header"
+    }
+  ],
+  "checks": {
+    "line_sums_match_subtotal": true,
+    "subtotal_plus_tax_equals_total": false,
+    "values_found_in_ocr_text": true
+  },
+  "warnings": [
+    "Subtotal 5830.32 + tax 1049.46 = 6879.78, but the printed total is 6880.00. The 0.22 difference is the printed 'Round Off' line (adjustments.round_off), so the total is correct.",
+    "Line 'amount' is the printed Taxable Amount (after discount, before GST), so it does not equal quantity x unit_price. Both lines carry a 16.67% discount and the printed Rate Per Unit is before discount (gross_value holds the printed Value column).",
+    "No total discount is printed, so discount_total is null. Only the per-line 16.67% rate is shown, and no per-line discount amount is printed.",
+    "Payment Terms say '35 Days' but no due date is printed, so due_date is null.",
+    "Tax is a single IGST amount of 1049.46 at 18% on both lines. There is no tax-class table, so tax_summary has one row with a null rate. The CGST and SGST cells are empty.",
+    "The 'Total' of 12 printed near the footer is the total quantity (6 + 6), not a currency amount."
+  ],
+  "meta": {
+    "pipeline_version": null,
+    "ocr_engine": null,
+    "llm": "claude",
+    "seconds": null
+  }
+}

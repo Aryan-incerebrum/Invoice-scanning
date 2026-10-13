@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "C:\Users\SURESH K GOWDA\Desktop\invoice-rakshith-edition\invoice2json\src\invoice2json\pipeline.py", line 99, in process_invoice
+    result = run_fallback(pre.image, ocr_result.layout_text, cfg)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SURESH K GOWDA\Desktop\invoice-rakshith-edition\invoice2json\src\invoice2json\fallback.py", line 29, in run_fallback
+    result = _try_larger_llm(ocr_text, ocr_text, cfg)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SURESH K GOWDA\Desktop\invoice-rakshith-edition\invoice2json\src\invoice2json\fallback.py", line 43, in _try_larger_llm
+    raw = extract(layout_text, cfg, model_path=cfg.fallback_llm_model_path)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Config' object has no attribute 'fallback_llm_model_path'

@@ -1,0 +1,289 @@
+{
+  "schema_version": "1.0",
+  "status": "needs_review",
+  "source_file": "img1.jpeg",
+  "invoice": {
+    "vendor_name": "MEDLINE DISTRIBUTORS",
+    "vendor_tax_id": "29ABKFM0361R1ZL",
+    "invoice_number": "MD2526I15178",
+    "invoice_date": "2025-10-31",
+    "due_date": "2025-10-31",
+    "currency": "INR",
+    "line_items": [
+      {
+        "line_no": 1,
+        "description": "ZELKARE AHF SHAMPOO 200ML",
+        "packing": null,
+        "manufacturer": "CUTE",
+        "hsn_code": "330510",
+        "batch_no": "SH-223",
+        "expiry": "2026-09",
+        "mrp": 621.99,
+        "old_mrp": 699.0,
+        "rack": null,
+        "quantity": 5,
+        "free_quantity": 2,
+        "unit_price": 485.74,
+        "discount_percent": 0.0,
+        "discount_amount": 0.0,
+        "scheme_value": null,
+        "gross_value": null,
+        "amount": 2428.7,
+        "taxable_amount": null,
+        "tax_rate_percent": 5,
+        "tax_amount": 121.44,
+        "net_amount": 2550.14
+      },
+      {
+        "line_no": 2,
+        "description": "FAREHANCE BRIGHTENININING SERUM 30ML",
+        "packing": null,
+        "manufacturer": "CUTE",
+        "hsn_code": "33049910",
+        "batch_no": "SH-225",
+        "expiry": "2026-10",
+        "mrp": 1375.0,
+        "old_mrp": 1375.0,
+        "rack": null,
+        "quantity": 1,
+        "free_quantity": 1,
+        "unit_price": 955.5,
+        "discount_percent": 0.0,
+        "discount_amount": 0.0,
+        "scheme_value": null,
+        "gross_value": null,
+        "amount": 955.5,
+        "taxable_amount": null,
+        "tax_rate_percent": 18,
+        "tax_amount": 172.0,
+        "net_amount": 1127.5
+      },
+      {
+        "line_no": 3,
+        "description": "FAREHANCE BRIGHTENININING SERUM 30ML",
+        "packing": null,
+        "manufacturer": "CU",
+        "hsn_code": "33049910",
+        "batch_no": "SH-407",
+        "expiry": "2027-05",
+        "mrp": 1385.0,
+        "old_mrp": 1385.0,
+        "rack": null,
+        "quantity": 4,
+        "free_quantity": 1,
+        "unit_price": 962.46,
+        "discount_percent": 0.0,
+        "discount_amount": 0.0,
+        "scheme_value": null,
+        "gross_value": null,
+        "amount": 3849.84,
+        "taxable_amount": null,
+        "tax_rate_percent": 18,
+        "tax_amount": 692.98,
+        "net_amount": 4542.82
+      }
+    ],
+    "subtotal": 7234.04,
+    "tax_total": 986.42,
+    "discount_total": 0.0,
+    "total": 8220.0,
+    "vendor": {
+      "address": "NO 50,2ND FLOOR,SUNDAR INDUSTRIAL COMPOUND, NEW TIMBERYARD LAYOUT MYSORE ROAD CROSS, BANGALORE-560026",
+      "phones": [
+        "8217002953",
+        "7975077823"
+      ],
+      "email": "medlinedist@gmail.com",
+      "website": null,
+      "drug_licenses": [
+        "20B-KA-B21/272069",
+        "21B-KA-B21/272070"
+      ],
+      "state_code": "29",
+      "state_name": "KARNATAKA",
+      "fssai_no": null,
+      "msme_no": null,
+      "pan": null
+    },
+    "buyer": {
+      "name": "M/s DR.SINDHU RAKSHITH",
+      "business_name": "C/O SHRIDHA SKIN & HAIR CKINIC",
+      "address": "#27,3RD FLR,GV PLAZA,12TH MAIN, 1ST BLOCK,RAJAJINAGAR,BANGALORE-560010",
+      "phones": [
+        "7483223323",
+        "8105899122"
+      ],
+      "gstin": "29CSLPS4004D1ZP",
+      "kmc_no": "88139",
+      "state_code": "29",
+      "state_name": "KARNATAKA",
+      "pan": null,
+      "contact_person": null,
+      "reg_no": null
+    },
+    "document": {
+      "title": "GST INVOICE",
+      "copy_type": null,
+      "page": null,
+      "invoice_type_label": null,
+      "irn": "703c6be28f4a17ca3a05004123251f99f",
+      "ack_no": "112527419690072",
+      "ack_date": "2025-10-31 10:10",
+      "eway_no": null,
+      "transport": null,
+      "lr_no": null,
+      "lr_date": "2025-10-31",
+      "area": "RAJAJI/BASAVESH",
+      "destination": null,
+      "despatched_through": null,
+      "terms_of_delivery": null,
+      "po_number": null,
+      "po_date": null,
+      "payment_terms": null,
+      "mode_of_payment": null,
+      "customer_code": null,
+      "sales_rep": null,
+      "sales_rep_phone": null,
+      "prepared_by": null,
+      "invoice_time": null
+    },
+    "payment": {
+      "bank_name": "IDBI BANK LTD",
+      "branch": "MISSION ROAD",
+      "bank_address": null,
+      "account_name": "MEDLINE DISTRIBUTORS",
+      "account_number": "0008102000063896",
+      "ifsc": "IBKL0000008",
+      "upi_id": null,
+      "scan_pay_number": "9844258582",
+      "notify_number": "7975077823"
+    },
+    "tax_summary": [
+      {
+        "rate_percent": 5,
+        "taxable_value": 2428.7,
+        "scheme_amount": 0.0,
+        "cd_amount": 0.0,
+        "cgst": 60.72,
+        "sgst": 60.72,
+        "igst": null,
+        "total_tax": 121.44
+      },
+      {
+        "rate_percent": 12,
+        "taxable_value": 0.0,
+        "scheme_amount": 0.0,
+        "cd_amount": 0.0,
+        "cgst": 0.0,
+        "sgst": 0.0,
+        "igst": null,
+        "total_tax": 0.0
+      },
+      {
+        "rate_percent": 18,
+        "taxable_value": 4805.34,
+        "scheme_amount": 0.0,
+        "cd_amount": 0.0,
+        "cgst": 432.49,
+        "sgst": 432.49,
+        "igst": null,
+        "total_tax": 864.98
+      },
+      {
+        "rate_percent": 28,
+        "taxable_value": 0.0,
+        "scheme_amount": 0.0,
+        "cd_amount": 0.0,
+        "cgst": 0.0,
+        "sgst": 0.0,
+        "igst": null,
+        "total_tax": 0.0
+      }
+    ],
+    "tax_summary_totals": {
+      "rate_percent": null,
+      "taxable_value": 7234.04,
+      "scheme_amount": 0.0,
+      "cd_amount": 0.0,
+      "cgst": 493.21,
+      "sgst": 493.21,
+      "igst": null,
+      "total_tax": 986.42
+    },
+    "adjustments": {
+      "scheme_discount": 0.0,
+      "discount": null,
+      "round_off": null,
+      "courier_charges": null,
+      "tcs_percent": null,
+      "tcs_amount": null,
+      "cr_dr_note": 0.0,
+      "replacement_amount": null
+    },
+    "quantity_totals": {
+      "total_quantity": null,
+      "item_count": null
+    },
+    "amount_in_words": "Rs. Eight Thousand Two Hundred and Twenty only",
+    "tax_amount_in_words": null,
+    "reference": null,
+    "remarks": null,
+    "disclaimer": null,
+    "terms_and_conditions": [
+      "Goods once sold will not be taken back or exchanged.",
+      "Interest @24%p.a will be charged if payment is not made within due date.",
+      "All disputes subject to Jurisdiction only.",
+      "Warranty : Goods supplied in this bill do not contravene sec.18 of drugs act.1940"
+    ],
+    "signatures": [
+      {
+        "label": "Authorized Signatory (For MEDLINE DISTRIBUTORS)",
+        "present": true
+      }
+    ],
+    "outstanding_bills": null,
+    "other_printed_text": [
+      "SCAN & PAY 9844258582",
+      "SEND PAID DETAILS TO 7975077823 (Paytm / GPay)",
+      "Import Purchase ONLINE | No Manual Entry | MARG NANO Rs.5400 | Online Purchase Import | Call 9880074116,9880427548,08023304118"
+    ]
+  },
+  "handwritten_annotations": [
+    {
+      "type": "note",
+      "text": "They gave new bill instead of this",
+      "location": "Empty area of the item table, with an arrow pointing up to the second line item (batch SH-225)"
+    },
+    {
+      "type": "mark",
+      "text": null,
+      "location": "Pen slashes and ticks over the Qt+Fr, HSN and product cells and the OLDMRP cell of line 1, and an 'x' after batch SH-225"
+    },
+    {
+      "type": "mark",
+      "text": null,
+      "location": "Pen underline beneath the Qt+Fr and HSN cells of line 3"
+    }
+  ],
+  "checks": {
+    "line_sums_match_subtotal": true,
+    "subtotal_plus_tax_equals_total": false,
+    "values_found_in_ocr_text": true
+  },
+  "warnings": [
+    "Handwritten note on the page reads 'They gave new bill instead of this', with an arrow pointing at the second line item. This invoice may be superseded or cancelled; confirm before booking it.",
+    "Pen ticks and strike marks appear over several fields. The printed values were still legible and are what was extracted.",
+    "Subtotal 7234.04 + GST 986.42 = 8220.46, but the printed grand total is 8220. The 0.46 difference is an unlabeled round-off (not printed as a separate line, so adjustments.round_off is null). The grand total is clipped at the right edge of the photo, so 8220 was confirmed from the 'Amount in words' line.",
+    "Quantities are printed as paid+free (5+2, 1+1, 4+1). quantity is the paid part and free_quantity is the free part. Line 'amount' is qty x rate (pre-tax); a separate taxable amount per line is not printed.",
+    "The IRN is cut off at the right edge of the photo; only the visible part is stored. The grand total is also clipped.",
+    "The Mfr column is cut off ('CUTE', and 'CU' on line 3, where a punch hole covers it). The banner above the bank line is partly hidden by a punch hole, so its label was not captured.",
+    "The date label above the table reads 'ARN DATE'; it is stored as ack_date.",
+    "Typos kept as printed: 'CKINIC' in the buyer name and 'BRIGHTENININING' in the product name."
+  ],
+  "meta": {
+    "pipeline_version": null,
+    "ocr_engine": null,
+    "llm": "claude",
+    "seconds": null
+  }
+}

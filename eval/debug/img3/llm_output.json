@@ -1,0 +1,42 @@
+{
+  "vendor_name": "MERCURYAGENCIES",
+  "invoice_number": "1031219",
+  "invoice_date": "18/03/2026",
+  "currency": "INR",
+  "line_items": [
+    {
+      "description": "Tyrodin Cream",
+      "quantity": 10,
+      "unit_price": 339.05,
+      "amount": 3390.5
+    },
+    {
+      "description": "Itin-A Forte",
+      "quantity": 1,
+      "unit_price": 25.71,
+      "amount": 25.71
+    },
+    {
+      "description": "Itin-A Forte",
+      "quantity": 9,
+      "unit_price": 28.19,
+      "amount": 253.71
+    },
+    {
+      "description": "Itin-A Forte",
+      "quantity": 0,
+      "unit_price": 28.19,
+      "amount": 0.0
+    },
+    {
+      "description": "Itin-A Forte",
+      "quantity": 0,
+      "unit_price": 28.19,
+      "amount": 0.0
+    }
+  ],
+  "subtotal": 3669.92,
+  "total": 3853.0,
+  "tax_total": 183.48,
+  "discount_total": 0.0
+}

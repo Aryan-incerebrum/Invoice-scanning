@@ -1,0 +1,24 @@
+{
+  "vendor_name": "NewtrimedHealthCare Private Limited",
+  "invoice_number": "25-26/CFC-2213",
+  "invoice_date": "9-Sep-25",
+  "currency": "INR",
+  "line_items": [
+    {
+      "description": "50ml MelcafXScalpSerum50ml",
+      "quantity": 6,
+      "unit_price": 671.19,
+      "amount": 4027.14
+    },
+    {
+      "description": "30ml IvoblakHairLotion 30ml",
+      "quantity": 6,
+      "unit_price": 494.92,
+      "amount": 2969.52
+    }
+  ],
+  "subtotal": 5830.32,
+  "total": 6880,
+  "tax_total": 1049.46,
+  "discount_total": null
+}

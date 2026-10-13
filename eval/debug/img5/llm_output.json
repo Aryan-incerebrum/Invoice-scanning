@@ -1,0 +1,18 @@
+{
+  "vendor_name": "TULSI CORPORATION",
+  "invoice_number": "CA282373",
+  "invoice_date": "14/08/26",
+  "currency": "RS",
+  "line_items": [
+    {
+      "description": "MUPIMESH10gm OINT",
+      "quantity": 1510,
+      "unit_price": 161.28,
+      "amount": 1642.71
+    }
+  ],
+  "subtotal": 1564.49,
+  "total": 1642.71,
+  "tax_total": 78.22,
+  "discount_total": 0.0
+}

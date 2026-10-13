@@ -1,0 +1,318 @@
+{
+  "schema_version": "1.0",
+  "status": "ok_with_warnings",
+  "source_file": "img6.jpeg",
+  "invoice": {
+    "vendor_name": "Novacare Healthcare Solutions Pvt. Ltd.",
+    "vendor_tax_id": "29AAGCN0847B1ZM",
+    "invoice_number": "BOS/25-26/59",
+    "invoice_date": "2025-10-13",
+    "due_date": "2025-11-12",
+    "currency": "INR",
+    "line_items": [
+      {
+        "line_no": 1,
+        "description": "CERA VE MOISTURISING CREAM FOR DRY TO VERY DRY SKIN",
+        "packing": "50ML",
+        "manufacturer": "LOR",
+        "hsn_code": "33049910",
+        "batch_no": "B51356318C",
+        "expiry": "2028-01",
+        "mrp": 430.0,
+        "old_mrp": 430.0,
+        "rack": null,
+        "str_code": "AC",
+        "quantity": 10,
+        "free_quantity": null,
+        "unit_price": 306.1,
+        "discount_percent": null,
+        "discount_amount": null,
+        "cd_percent": null,
+        "scheme_percent": 20.0,
+        "scheme_value": null,
+        "gross_value": 3061.0,
+        "amount": 2448.8,
+        "taxable_amount": 2448.8,
+        "tax_rate_percent": 18,
+        "tax_amount": 440.78,
+        "net_amount": null
+      }
+    ],
+    "subtotal": 2448.8,
+    "tax_total": 440.78,
+    "discount_total": 612.2,
+    "total": 2890.0,
+    "vendor": {
+      "address": "#260/1/36/2 3RD FLOOR, GLOBAL VILLAGE ROAD, NEAR METRO CASH @ CARRY, PATTANAGERE. BANGALORE - 560059. KARNATAKA - 29",
+      "phones": [
+        "9167230621"
+      ],
+      "email": null,
+      "website": null,
+      "drug_licenses": [
+        "20B-KA-B22-188624",
+        "21B-KA-B22-188625",
+        "20G-KA-B22-188626"
+      ],
+      "state_code": "29",
+      "state_name": "KARNATAKA",
+      "fssai_no": "11220332000094",
+      "msme_no": null,
+      "pan": "AAGCN0847B"
+    },
+    "buyer": {
+      "name": "M/s. DR. SINDHU RAKSHITH",
+      "business_name": null,
+      "address": "3RD FLOOR, GV PLAZA, #27,12TH MAIN RD, 1 ST BLOCK, RAJAJINAGAR, BANGLORE - 560010. KARNATAKA - 29",
+      "phones": [
+        "7483223323"
+      ],
+      "gstin": "29CSLPS4004D1ZP",
+      "kmc_no": "88139",
+      "state_code": "29",
+      "state_name": "KARNATAKA",
+      "pan": "CSLPS4004D",
+      "contact_person": null,
+      "reg_no": null
+    },
+    "document": {
+      "title": "TAX INVOICE",
+      "copy_type": "DUPLICATE FOR TRANSPORTER / PAYMENT",
+      "page": null,
+      "invoice_type_label": null,
+      "irn": null,
+      "ack_no": null,
+      "ack_date": null,
+      "eway_no": null,
+      "transport": null,
+      "lr_no": null,
+      "lr_date": null,
+      "area": null,
+      "destination": null,
+      "despatched_through": null,
+      "terms_of_delivery": null,
+      "po_number": null,
+      "po_date": null,
+      "payment_terms": null,
+      "mode_of_payment": null,
+      "customer_code": null,
+      "sales_rep": null,
+      "sales_rep_phone": null,
+      "prepared_by": null,
+      "invoice_time": null
+    },
+    "payment": {
+      "bank_name": "HDFC BANK",
+      "branch": null,
+      "bank_address": "KAMALA MILLS COMPOUND, LOWER PAREL - 400013",
+      "account_name": null,
+      "account_number": "57500000261868",
+      "ifsc": "HDFC0000542",
+      "upi_id": null,
+      "scan_pay_number": null,
+      "notify_number": null
+    },
+    "tax_summary": [
+      {
+        "rate_percent": null,
+        "taxable_value": 0.0,
+        "scheme_amount": null,
+        "cd_amount": null,
+        "cgst": 0.0,
+        "sgst": 0.0,
+        "igst": null,
+        "total_tax": null,
+        "amount": 0.0,
+        "discount_amount": 0.0,
+        "td_amount": 0.0,
+        "cgst_rate_percent": 0.0,
+        "sgst_rate_percent": 0.0,
+        "total_amount": 0.0
+      },
+      {
+        "rate_percent": null,
+        "taxable_value": 0.0,
+        "scheme_amount": null,
+        "cd_amount": null,
+        "cgst": 0.0,
+        "sgst": 0.0,
+        "igst": null,
+        "total_tax": null,
+        "amount": 0.0,
+        "discount_amount": 0.0,
+        "td_amount": 0.0,
+        "cgst_rate_percent": 2.5,
+        "sgst_rate_percent": 2.5,
+        "total_amount": 0.0
+      },
+      {
+        "rate_percent": null,
+        "taxable_value": 0.0,
+        "scheme_amount": null,
+        "cd_amount": null,
+        "cgst": 0.0,
+        "sgst": 0.0,
+        "igst": null,
+        "total_tax": null,
+        "amount": 0.0,
+        "discount_amount": 0.0,
+        "td_amount": 0.0,
+        "cgst_rate_percent": 6.0,
+        "sgst_rate_percent": 6.0,
+        "total_amount": 0.0
+      },
+      {
+        "rate_percent": null,
+        "taxable_value": 2448.8,
+        "scheme_amount": null,
+        "cd_amount": null,
+        "cgst": 220.39,
+        "sgst": 220.39,
+        "igst": null,
+        "total_tax": null,
+        "amount": 3061.0,
+        "discount_amount": 612.2,
+        "td_amount": 0.0,
+        "cgst_rate_percent": 9.0,
+        "sgst_rate_percent": 9.0,
+        "total_amount": 2889.58
+      },
+      {
+        "rate_percent": null,
+        "taxable_value": 0.0,
+        "scheme_amount": null,
+        "cd_amount": null,
+        "cgst": 0.0,
+        "sgst": 0.0,
+        "igst": null,
+        "total_tax": null,
+        "amount": 0.0,
+        "discount_amount": 0.0,
+        "td_amount": 0.0,
+        "cgst_rate_percent": 14.0,
+        "sgst_rate_percent": 14.0,
+        "total_amount": 0.0
+      }
+    ],
+    "tax_summary_totals": {
+      "rate_percent": null,
+      "taxable_value": 2448.8,
+      "scheme_amount": null,
+      "cd_amount": null,
+      "cgst": 220.39,
+      "sgst": 220.39,
+      "igst": null,
+      "total_tax": null,
+      "amount": 3061.0,
+      "discount_amount": 612.2,
+      "td_amount": 0.0,
+      "cgst_rate_percent": null,
+      "sgst_rate_percent": null,
+      "total_amount": 2889.58
+    },
+    "adjustments": {
+      "scheme_discount": null,
+      "discount": 612.2,
+      "round_off": null,
+      "courier_charges": null,
+      "tcs_percent": 0.0,
+      "tcs_amount": 0.0,
+      "cr_dr_note": 0.0,
+      "replacement_amount": null
+    },
+    "quantity_totals": {
+      "total_quantity": 10,
+      "item_count": 1
+    },
+    "amount_in_words": "Rupees Two Thousand Eight Hundred Ninety only.",
+    "tax_amount_in_words": null,
+    "reference": null,
+    "remarks": null,
+    "disclaimer": null,
+    "terms_and_conditions": [
+      "Goods to be returned Only to Authorized Representatives of Novacare (having proper Id Cards) and acknowledgement of same to be taken by Customers .",
+      "Customers are advised NOT to pay any money or handover goods to any Pharma Company's representatives or Medical Representatives .",
+      "Customers shall make payment either through cheque or electronic (RTGS/NEFT/UPI) mode only.",
+      "Any Customer who will hand over goods or cash to any unauthorized representatives or medical representatives of pharma companies / Novacare will be doing at his/her own risk and Novacare shall not be responsible for any misuse of the same."
+    ],
+    "signatures": [
+      {
+        "label": "Competent Person",
+        "present": false
+      }
+    ],
+    "outstanding_bills": null,
+    "other_printed_text": [
+      "Customer Name, Address,DL,TIN,PAN No (label of the buyer block)",
+      "IRN NO and Ack No labels are printed with no values; Vehicle No, Order and eWay are also blank",
+      "MUMBAI . HYDERABAD . BENGALURU . CHENNAI . DELHI . GURUGRAM . DEHRADUN . PANCHKULA . JAIPUR . INDORE . KOLKATA",
+      "Barcode beside the invoice number; QR code beside the totals",
+      "Summary box labels: ITEM 1, HASH 10, CASES (blank), CHK (handwritten mark), PKG (blank)"
+    ],
+    "other_fields": {
+      "cin": "U51900MH2018PTC309987",
+      "registered_office": "605 & 606, 6TH FLR, TRADE CENTRE, BKC ,BANDRA (EAST), MUMBAI - 400051",
+      "parent_company": "A unit of Entero Healthcare Solutions Ltd.",
+      "place_of_supply": "KARNATAKA",
+      "place_of_supply_state_code": "29",
+      "reverse_charge": "NO",
+      "gross_amt": 3061.0,
+      "add_amt": 0.0,
+      "cases": null,
+      "pkg": null,
+      "footer_signature_text": [
+        "A - Sadiq Basha",
+        "Sadiq Basha - 11:46:28 AM 13/10/25"
+      ]
+    }
+  },
+  "handwritten_annotations": [
+    {
+      "type": "note",
+      "text": "extra copy",
+      "location": "Centre of the page in the empty area of the item table, underlined with a stroke"
+    },
+    {
+      "type": "note",
+      "text": "B",
+      "location": "Inside the CHK box at the lower right, beside a tick over the table total. The letter is uncertain"
+    },
+    {
+      "type": "mark",
+      "text": null,
+      "location": "Pen stroke through the end of the product description ('SKIN')"
+    },
+    {
+      "type": "mark",
+      "text": null,
+      "location": "Ticks or slashes over the QTY (10), the FREE SCHEME (20.00%) cell, NEW MRP (430.00, struck through) and the GST % cell (18.0)"
+    },
+    {
+      "type": "mark",
+      "text": null,
+      "location": "Tick over the table total 2889.58"
+    }
+  ],
+  "checks": {
+    "line_sums_match_subtotal": true,
+    "subtotal_plus_tax_equals_total": false,
+    "values_found_in_ocr_text": true
+  },
+  "warnings": [
+    "Handwritten 'extra copy' is written on the page, and the header prints 'DUPLICATE FOR TRANSPORTER / PAYMENT'. This looks like an extra copy of an invoice you may already have; check it is not booked twice.",
+    "Subtotal 2448.80 + GST 440.78 = 2889.58, which is the printed TOTAL AMT. The printed 'To Pay' is 2890/- (and the amount in words says 2890). The 0.42 difference is an unprinted round-off to the nearest rupee, so adjustments.round_off is null and the total uses the To Pay figure.",
+    "Line 'amount' is the printed TAXABLE value (after the 20% scheme), while gross_value is the printed AMOUNT column (3061.00 = 10 x 306.10). The 20% under 'FREE SCHEME' is stored as scheme_percent. It is a percentage, not free units, so free_quantity is null. The discount of 612.20 comes from the printed 'Less Disc' (and the tax table), and no per-line discount amount is printed.",
+    "The tax table is keyed by CGST/SGST rate (0, 2.5, 6, 9, 14%). Only the 9% + 9% row has values (CGST 220.39 + SGST 220.39 = 440.78, i.e. 18% on the line). rate_percent is null in those rows, and the printed half-rates are in cgst_rate_percent and sgst_rate_percent.",
+    "No per-line net amount is printed, so net_amount is null. The tax-table TOTAL AMT of 2889.58 is stored in tax_summary.",
+    "The summary label 'HASH' (value 10) is read as the total quantity because it equals the line quantity. The STR column value 'AC' is stored as str_code.",
+    "Pen marks are drawn over several fields, including a strike through the NEW MRP cell. The printed values were still legible and are what was extracted.",
+    "IRN and Ack No are blank. TD% is blank, and TD AMT is 0.00.",
+    "The product name is printed 'CERA VE' (with a space) and the city 'BANGLORE'; both are kept as printed. The 'Competent Person' label has no visible signature."
+  ],
+  "meta": {
+    "pipeline_version": null,
+    "ocr_engine": null,
+    "llm": "claude",
+    "seconds": null
+  }
+}

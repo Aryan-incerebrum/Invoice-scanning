@@ -1,0 +1,18 @@
+{
+  "vendor_name": "Novacare",
+  "invoice_number": "BOS/25-26/59",
+  "invoice_date": "13-10-2025",
+  "currency": "Rupees",
+  "line_items": [
+    {
+      "description": "CERAVE MOISTURISING CREAM FOR DRYTOVERYDRYSKIN",
+      "quantity": 10,
+      "unit_price": 430.0,
+      "amount": 3061.0
+    }
+  ],
+  "subtotal": 3061.0,
+  "total": 2889.58,
+  "tax_total": 440.78,
+  "discount_total": 612.2
+}

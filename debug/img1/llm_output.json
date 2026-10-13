@@ -1,0 +1,30 @@
+{
+  "vendor_name": "MEDLINE DISTRIBUTORS",
+  "invoice_number": "MD2526l15178",
+  "invoice_date": "31-10-2025",
+  "currency": "Rs",
+  "line_items": [
+    {
+      "description": "ZELKAREAHF SHAMPOO 200ML",
+      "quantity": 5,
+      "unit_price": 621.99,
+      "amount": 485.74
+    },
+    {
+      "description": "FAREHANCEBRIGHTENINING SERUM30ML",
+      "quantity": 1,
+      "unit_price": 1375.0,
+      "amount": 1127.5
+    },
+    {
+      "description": "FAREHANCEBRIGHTENININGSERUM30ML",
+      "quantity": 4,
+      "unit_price": 1385.0,
+      "amount": 4542.82
+    }
+  ],
+  "subtotal": 7234.04,
+  "total": 8220,
+  "tax_total": 986.42,
+  "discount_total": 0.0
+}
